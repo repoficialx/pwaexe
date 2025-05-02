@@ -37,7 +37,7 @@
     <ProjectCapability Include="Msix" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\GeminiNET\Gemini.ico">
+    <None Include="..\..\..\..\..\..\Downloads\gemini.png">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>
@@ -72,6 +72,6 @@
     <Description>Gemini as a standalone app using WebView2</Description>
     <Copyright>©2025 repoficialx</Copyright>
     <RepositoryUrl>https://github.com/repoficialx/pwaexe</RepositoryUrl>
-    <PackageIcon>Gemini.ico</PackageIcon>
+    <PackageIcon>gemini.png</PackageIcon>
   </PropertyGroup>
 </Project>
