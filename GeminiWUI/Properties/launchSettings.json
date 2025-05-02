@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GeminiWUI (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "GeminiWUI (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
