@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Gemini_WinUI (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Gemini_WinUI (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
